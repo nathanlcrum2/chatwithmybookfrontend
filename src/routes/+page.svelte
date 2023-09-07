@@ -136,8 +136,9 @@
 
 <div class="flex flex-col h-full items-center">
 
-	<div class="mt-20">
+	<div class="mt-16 flex flex-col items-center">
 		<p class="text-5xl text-white/80 font-extralight">Chat With My Book</p>
+		<p class="mt-6 mx-8 max-w-[700px]">The table of contents is below for reference. You can ask for a summary of a chapter, what something means, how the book feels about health, or anything else pertaining to the book.</p>
 	</div>
 	<div class="flex md:flex-row flex-col mt-14 justify-center items-center gap-8 lg:gap-20">
 		<a class="w-[60%] md:w-[30%] lg:w-[25%]" target="_blank" href="https://www.amazon.com/Only-Path-See-Problems-Solving/dp/B09RM1F399/ref=sr_1_1?crid=3A47MJDQK720Z&keywords=the+only+path+i+see&qid=1693983729&sprefix=the+only+path+i+se%2Caps%2C206&sr=8-1"><img src={bookcover} alt="The Only Path I See Book Cover"></a>
@@ -198,6 +199,24 @@
 		</div>
 		
 
+	</div>
+	<div class="mt-10">
+		<h1 class="text-xl pb-4">Table Of Contents</h1>
+		<p>Introduction</p>
+		<h2>Part One: Forming the Framework</h2>
+		<p>Chapter 1: All We Do In Life?</p>
+		<p>Chapter 2: The Learning Framework</p>
+		<h2>Part Two: Applying the Framework</h2>
+		<p>Chapter 3: What's the Goal of Humanity?</p>
+		<p>Chapter 4: What's Causing Our Modern Problems?</p>
+		<p>Chapter 5: What's the Solution?</p>
+		<h2>Part Three: Implementing the Solution</h2>
+		<p>Chapter 6: Taking Responsibility</p>
+		<p>Chapter 7: Adding Value</p>
+		<p>Chapter 8: Embracing the Pain</p>
+		<p>Chapter 9: Thinking Critically</p>
+		<p>Chapter 10: Becoming Healthy</p>
+		<p>Chapter 11: The Freedom Requirement</p>
 	</div>
 	
 	
