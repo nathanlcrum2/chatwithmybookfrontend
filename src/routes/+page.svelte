@@ -23,7 +23,7 @@
 	}
 
 	let elemChat: HTMLElement;
-	let url = 'https://genuinelettersbackend-c4ruudsfgq-wm.a.run.app/'; //change this for whatever you host this on
+	let url = 'https://chatwithbookbackend-7t57425ggq-wm.a.run.app'; //change this for whatever you host this on
 
 	// Navigation List
 	const people: Person[] = [
